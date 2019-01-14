@@ -1,0 +1,3 @@
+MODELS_DIR = '../models/'
+CLF_ROOT_FILE_NAME = 'clf_'
+CLF_EXTENSION_FILE_NAME = '.sav'
